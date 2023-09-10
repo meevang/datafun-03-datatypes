@@ -1,0 +1,47 @@
+2023-09-10 17:05:52,136 =============================================================
+2023-09-10 17:05:52,136 =============================================================
+2023-09-10 17:05:52,136 Today is 2023-09-10 at 05:05 PM
+2023-09-10 17:05:52,165 This file is running on: nt Windows 10
+2023-09-10 17:05:52,165 The Python version is: 3.11.5
+2023-09-10 17:05:52,165 The active conda environment is:  None
+2023-09-10 17:05:52,165 The active pip environment is:    None
+2023-09-10 17:05:52,165 The active environment path is:   C:\Users\mvang\AppData\Local\Programs\Python\Python311
+2023-09-10 17:05:52,165 The current working directory is: C:\Users\mvang\NW Week 3\datafun-03-datatypes
+2023-09-10 17:05:52,165 This source file is in:           C:\Users\mvang\NW Week 3\datafun-03-datatypes
+2023-09-10 17:05:52,165 =============================================================
+2023-09-10 17:05:52,165 =============================================================
+2023-09-10 17:05:52,165 Calling functions from main block
+2023-09-10 17:05:52,165 score_list: [5, 6, 11, 15, 19, 22, 25, 33, 45, 49, 50, 54, 57, 58, 62, 66, 73, 77, 80, 85]
+2023-09-10 17:05:52,166 mean: 44.6
+2023-09-10 17:05:52,166 median: 49.5
+2023-09-10 17:05:52,166 mode: 5
+2023-09-10 17:05:52,166 stdev: 25.88
+2023-09-10 17:05:52,166 variance: 669.52
+2023-09-10 17:05:52,166 listx: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+2023-09-10 17:05:52,166 listy: [1, 2, 3, 4, 5, 6, 8, 10, 12, 20]
+2023-09-10 17:05:52,166 correlation between x and y: 0.9264105379849625
+2023-09-10 17:05:52,166 The equation of the best fit line is: y = 1.7515151515151515x + -0.7818181818181822
+2023-09-10 17:05:52,166 We predict that when x = {newx}, y will be about {newy}
+2023-09-10 17:05:52,166 Given score list: [5, 6, 11, 15, 19, 22, 25, 33, 45, 49, 50, 54, 57, 58, 62, 66, 73, 77, 80, 85]
+2023-09-10 17:05:52,166 The max() is 85
+2023-09-10 17:05:52,166 The min() is 5
+2023-09-10 17:05:52,166 The len() is 20
+2023-09-10 17:05:52,166 The sum() is 892
+2023-09-10 17:05:52,166 The average is 44.6
+2023-09-10 17:05:52,166 Given score list: [5, 6, 11, 15, 19, 22, 25, 33, 45, 49, 50, 54, 57, 58, 62, 66, 73, 77, 80, 85]
+2023-09-10 17:05:52,166 Using the built-it function sorted(lst) gives: [5, 6, 11, 15, 19, 22, 25, 33, 45, 49, 50, 54, 57, 58, 62, 66, 73, 77, 80, 85]
+2023-09-10 17:05:52,166 Using the built-in function sorted(lst,reverse=True) gives: [85, 80, 77, 73, 66, 62, 58, 57, 54, 50, 49, 45, 33, 25, 22, 19, 15, 11, 6, 5]
+2023-09-10 17:05:52,166 new_scores is: [15, 9, 8, 7, 6, 4, 3, 2, 1]
+2023-09-10 17:05:52,167 Popped the first (index=0): 15 and now, new_scores is: [9, 8, 7, 6, 4, 3, 2, 1]
+2023-09-10 17:05:52,167 Popped the last (index=0): 1 and now, new_scores is: [9, 8, 7, 6, 4, 3, 2]
+2023-09-10 17:05:52,167 Number list: {list1}
+2023-09-10 17:05:52,167 X values less than 4: []
+2023-09-10 17:05:52,167 Doubled scores: [<map object at 0x0000029118286650>]
+2023-09-10 17:05:52,167 Volume: [<map object at 0x0000029118285F30>]
+2023-09-10 17:05:52,167 List 1: {list1}
+2023-09-10 17:05:52,167 x values over 4 (using list comprehensions!): {xless_than}
+2023-09-10 17:05:52,167 Tripled x values: {tripled_x}
+2023-09-10 17:05:52,167 Square x values: <map object at 0x00000291182530D0>
+2023-09-10 17:05:52,167 Add more logging statements to the code to see what happens.
+2023-09-10 17:05:52,167 Explore enough to understand.
+2023-09-10 17:05:52,167 Apply these skills to your own topic domain.
