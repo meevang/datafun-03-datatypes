@@ -1,4 +1,6 @@
-""" Mee Vang Project 3"""
+""" Mee Vang Project 3
+
+"""
 
 # import from standard library
 import statistics
