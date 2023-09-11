@@ -1,0 +1,33 @@
+2023-09-10 19:20:12,265 =============================================================
+2023-09-10 19:20:12,265 =============================================================
+2023-09-10 19:20:12,265 Today is 2023-09-10 at 07:20 PM
+2023-09-10 19:20:12,283 This file is running on: nt Windows 10
+2023-09-10 19:20:12,283 The Python version is: 3.11.5
+2023-09-10 19:20:12,283 The active conda environment is:  None
+2023-09-10 19:20:12,283 The active pip environment is:    None
+2023-09-10 19:20:12,283 The active environment path is:   C:\Users\mvang\AppData\Local\Programs\Python\Python311
+2023-09-10 19:20:12,283 The current working directory is: C:\Users\mvang\NW Week 3\datafun-03-datatypes
+2023-09-10 19:20:12,294 This source file is in:           C:\Users\mvang\NW Week 3\datafun-03-datatypes
+2023-09-10 19:20:12,294 =============================================================
+2023-09-10 19:20:12,294 =============================================================
+2023-09-10 19:20:12,294 Calling functions from main block
+2023-09-10 19:20:12,294 tuple_brand = ('Pepsi', 'Coca-Cola', '7up', 'Fanta', 'Dr. Pepper')
+2023-09-10 19:20:12,294 tuple_flavor = ('Cola', 'Cherry', 'Orange', 'Lemon-lime')
+2023-09-10 19:20:12,294 tuple_brand = ('Pepsi', 'Coca-Cola', '7up', 'Fanta', 'Dr. Pepper')
+2023-09-10 19:20:12,294 tuple_flavor = ('Cola', 'Cherry', 'Orange', 'Lemon-lime')
+2023-09-10 19:20:12,294 tupleCat = ('Pepsi', 'Coca-Cola', '7up', 'Fanta', 'Dr. Pepper', 'Cola', 'Cherry', 'Orange', 'Lemon-lime')
+2023-09-10 19:20:12,294 tupleAThrice = ('Pepsi', 'Coca-Cola', '7up', 'Fanta', 'Dr. Pepper', 'Pepsi', 'Coca-Cola', '7up', 'Fanta', 'Dr. Pepper')
+2023-09-10 19:20:12,295 set_brandA = {1, 2, 3, 4, 5}
+2023-09-10 19:20:12,295 set_brandB = {4, 5, 6, 7, 8}
+2023-09-10 19:20:12,295 Set Union = {1, 2, 3, 4, 5, 6, 7, 8}
+2023-09-10 19:20:12,296 Intersection = {4, 5}
+2023-09-10 19:20:12,296 Difference = {1, 2, 3}
+2023-09-10 19:20:12,296 sodaA_dict = {'Calories': 0, 'Sugar': 0, 'Type': 'Zero'}
+2023-09-10 19:20:12,296 sodaB_dict = {'Calories': 150, 'Sugar': 34, 'Type': 'Regular'}
+2023-09-10 19:20:12,296 Word count is a good way to begin processing text.
+2023-09-10 19:20:12,296 Given text_simple.txt, the word_counts_dict = {'One': 1, 'fish': 3, 'two': 1, 'red': 1, 'blue': 1, 'fish.': 1}
+2023-09-10 19:20:12,296 Given text_simple.txt and comprehensions,
+2023-09-10 19:20:12,296 the the word_counts_dict2 = {'One': 1, 'fish': 3, 'two': 1, 'red': 1, 'blue': 1, 'fish.': 1}
+2023-09-10 19:20:12,296 Add more logging statements to the code to see what happens.
+2023-09-10 19:20:12,296 Explore enough to understand.
+2023-09-10 19:20:12,296 Apply these skills to your own topic domain.
